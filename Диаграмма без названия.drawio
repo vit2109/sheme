@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T06:43:22.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="SYHJ-en0UpRNbCgq6M0F" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T06:48:39.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" etag="RXHC2GPbnndh1VcG30yC" version="20.4.0" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="1043" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1667" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="25" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Holiday&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;IdHoliday&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;IdCalendar&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Name&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Description&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Date&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;CreatedAt&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;UpdatedAt&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Enabled&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="140.00000000000006" y="270.0000000000004" width="160" height="160" as="geometry" />
+          <mxGeometry x="280.00000000000006" y="450.0000000000004" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="OONIOlBQQDIUEP5xMChf-114" value="Специальное программное обеспечение:&lt;br&gt;1. расширяемое&lt;br&gt;2. использование перспективных технологий&lt;br&gt;3. использование общей базы данных&lt;br&gt;4. экспорт данных: как на основе шаблона так и используя пользовательские настройки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="10" width="750" height="100" as="geometry" />
@@ -24,6 +24,18 @@
         </mxCell>
         <mxCell id="OONIOlBQQDIUEP5xMChf-117" value="Сопутствующие" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OONIOlBQQDIUEP5xMChf-120" value="Фрейморк" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OONIOlBQQDIUEP5xMChf-121" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="23.6" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OONIOlBQQDIUEP5xMChf-122" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="OONIOlBQQDIUEP5xMChf-123" value="Фрейморк" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;gradientColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="340" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
